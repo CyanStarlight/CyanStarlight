@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Maksym Dulich
 - 🌱 I’m currently learning Computer Science BsC, 2nd year
-- 💬 Ask me about my ultimate NixOS workstation
+- 💬 Ask me about my java struggles
 - 📫 How to reach me: grab me by the cheek (slightly)
 - 😄 Pronouns: he/him
 <!--
