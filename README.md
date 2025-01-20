@@ -1,9 +1,9 @@
 # Hi there 👋
-## Maksym Dulich
+## Lesoup-mxd
 - 🌱 I’m currently learning Computer Science BsC, 2nd year
-- 💬 Ask me about my java struggles
+- 💬 Ask me about my Mojo🔥 struggles
 - 📫 How to reach me: grab me by the cheek (slightly)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: \[AnyType]
 <!--
 
 Here are some ideas to get you started:
