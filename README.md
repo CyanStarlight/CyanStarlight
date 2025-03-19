@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm **Lesoup-MXD**  
+# Hey there! 👋 I'm **CyanStarlight**  
 
 💻 **Developer** | 🎨 **Creative Mind** | 🚀 **Performance Enthusiast** | 🎵 **Music Explorer**  
 
@@ -53,7 +53,7 @@ I thrive on **pushing the limits of optimization** and making things **run absur
 ## 📫 How to Reach Me  
 | **How**       |
 |--------------------|
-|[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lesoup-mxd)|
+|[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyanStarlight)|
 
 ---
 
