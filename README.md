@@ -1,17 +1,17 @@
-# Hey there! 👋 I'm **CyanStarlight**  
+# Hey there! 👋 I'm Solar (**_CyanStarlight_**)  
 
-💻 **System Builder** | 🎨 **Creative Technologist** | 🚀 **Performance Enthusiast** | 🎵 **Sound Explorer**
+💻 **Creative Technologist** | 🎨 **Performance Enthusiast** | 🚀 **System Architect** | 🎵 **Sound Explorer**
 
 ---
 
 ## 🚀 About Me  
-I'm a **Computer Science student** passionate about **high-performance computing**, **P2P systems**, and **distributed architectures**.  
-I love pushing code to the edge — making things run not just well, but **absurdly fast**.
+I’m a **Computer Science student** with a deep passion for **high-performance computing**, **P2P systems**, and **distributed architectures**.  
+My focus? Pushing the limits of what's possible with **optimized code** — making things run **absurdly fast** and **efficient**.
 
-🛠️ I work primarily in **Mojo**, **Python**, and **C++**, with a strong focus on **low-level optimization and cryptography**.  
-My specialties include **compiler design**, **3D system visualization**, and **modular agent-based architectures**.
+🛠️ **Languages & Tools**: I work mostly with **Mojo**, **Python**, and **C++**, with a heavy emphasis on **low-level optimizations**, **cryptography**, and **modular system architectures**.  
+💡 I’m all about **compiler design**, **distributed systems**, and **3D visualization** in my projects.
 
-🎵 Music fuels my workflow. I experiment with **procedural audio**, **techno**, **ambient**, and **acid** sound design as part of my creative outlet.
+🎵 Music fuels my creativity. I experiment with **procedural audio**, **sound synthesis**, and genre-blending **ambient**/ **techno** soundscapes, allowing me to merge both artistic and technical endeavors seamlessly.
 
 ---
 
@@ -29,32 +29,35 @@ My specialties include **compiler design**, **3D system visualization**, and **m
 ---
 
 ## 🔭 What I'm Working On  
-- 🌐 **SolarAssist** – an intelligent agent framework powered by recursive memory, self-editing, and modular tools  
-- 🌀 **Project Genesis** – a vision for a consciousness-oriented computational model and distributed ecosystem  
-- 🔐 **SIMD-optimized crypto libraries** for maximum throughput  
-- 🧠 **Compiler-integrated 3D Shell** using **Mojo + Vulkan**
+- **Noctix (formerly Project Genesis)** – A **distributed, consciousness-oriented computational ecosystem**, integrating **virtualized CPU resources**, **P2P networking**, and a **distributed filesystem**. Noctix leverages **advanced consensus algorithms** to create an environment where computational tasks and storage can scale infinitely and operate in a decentralized manner.
+- **Insarion** – The next-generation **intelligent agent framework** that powers Noctix. It's designed with **recursive memory**, **self-modification**, and a focus on evolving and managing autonomous systems in real-time.
+- **Lunaris Core** – The backbone of Noctix, providing a high-performance, modular infrastructure that integrates **dynamic memory management**, **signal processing**, and **virtualization** for distributed computing. It is also the foundation for **agent-based interactions** in the Noctix ecosystem.
+- **SIMD-Optimized Cryptography** – Enhancing **cryptographic algorithms** to achieve maximum performance by utilizing **SIMD** and low-level optimization techniques. This project pushes the boundaries of cryptographic security and throughput.
+- **3D Shell Visualization** – Integrating **Mojo**, **Vulkan**, and **compiler-based 3D environments** to create a **high-performance 3D shell** that enables real-time simulation and visualization of distributed systems and computational tasks.
+
 
 ---
 
 ## 🌱 Currently Learning  
-- ⚙️ **Consensus protocols for distributed execution**  
-- 🎮 **Advanced 3D rendering and GPU architecture**  
-- 🔬 **Deep compiler-level performance tuning**
+- ⚙️ **Consensus algorithms** for efficient distributed execution  
+- 🖼️ **Advanced GPU architecture** and **3D rendering techniques**  
+- 🔬 **In-depth compiler performance tuning**
 
 ---
 
 ## 💬 Ask Me About  
-- ⚡ **Mojo and performance tuning**  
-- 🌐 **P2P networks and resilient infrastructure**  
-- 🔐 **Applied cryptography & compiler theory**  
-- 🎵 **Creative coding and generative music**
+- ⚡ **Mojo**: Performance optimization, compiler tuning, and low-level system design  
+- 🌐 **Distributed Systems**: Building resilient, decentralized infrastructure  
+- 🔐 **Cryptography**: From theory to practical implementation of cutting-edge algorithms  
+- 🎶 **Generative Music**: The intersection of code and sound design, creating something new
 
 ---
 
 ## 📫 How to Reach Me  
-| **How**       |
-|--------------------|
-|[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyanStarlight)|
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyanStarlight)
+
+## 🌐 Join **Derivium** - My **Devlog** & **Thoughtspace**
+[![**Derivium** on Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/cyanstarlight_blog)
 
 ---
 
@@ -64,4 +67,5 @@ My specialties include **compiler design**, **3D system visualization**, and **m
 ---
 
 ## ⚡ Fun Fact  
-🔍 I write code so optimized it **scares compilers**.  
+🔍 I build systems that think, evolve, and transcend traditional computing. Code is just the language, but the real fun comes from creating architectures that push the boundaries of what’s possible.   
+
